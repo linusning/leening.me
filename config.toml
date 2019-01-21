@@ -2,6 +2,7 @@ languageCode = "en-us"
 baseURL = "https://leening.me/"
 title = "Li Ning"
 theme = "hyde-hyde"
+relativeurls = true
 
 [params.social]
   	github = "linusning"
