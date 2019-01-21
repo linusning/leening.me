@@ -1,5 +1,5 @@
 languageCode = "zh_CN"
-baseURL = "https://leening.me"
+baseURL = "https://leening.me/"
 title = "leening.me"
 theme = "hyde-hyde"
 
