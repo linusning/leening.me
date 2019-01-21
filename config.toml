@@ -1,4 +1,7 @@
 languageCode = "zh_CN"
-# baseURL = "http://example.org/"
-title = "leening的自留地"
+baseURL = "https://leening.me"
+title = "leening.me"
 theme = "hyde-hyde"
+
+[params.social]
+  	github = "linusning"
