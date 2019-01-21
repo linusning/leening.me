@@ -1,6 +1,6 @@
-languageCode = "zh_CN"
+languageCode = "en-us"
 baseURL = "https://leening.me/"
-title = "leening.me"
+title = "Li Ning"
 theme = "hyde-hyde"
 
 [params.social]
