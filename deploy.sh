@@ -2,9 +2,6 @@
 
 echo -e "\033[0;32mDeploying updates to leening.me...\033[0m"
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-
 # Add changes to git.
 git add .
 
