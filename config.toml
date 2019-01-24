@@ -1,7 +1,29 @@
-languageCode = "en-us"
+languageCode = "zh-cn"
 baseURL = "https://leening.me/"
-title = "Li Ning"
 theme = "hyde-hyde"
+enableEmoji = true
 
-[params.social]
-  	github = "linusning"
+[menu]
+    [[menu.main]]
+        name = "文章"
+        identifier = "post"
+        url = "/posts/"
+  
+    [[menu.main]]
+        name = "标签"
+        identifier = "tag"
+        url = "/tags/"
+
+    [[menu.main]]
+        name = "关于"
+        identifier = "about"
+        url = "/about/"
+
+[params]    
+    description = "KEEP IT SIMPLE, STUPID!"
+    copyright = "Li Ning, Built with <a href = \"https://gohugo.io\">Hugo</a> ❤️ <a href = \"https://github.com/htr3n/hyde-hyde\">hyde-hyde</a>."
+    authorImage = "images/linus.jpeg"
+
+    [params.social]
+  	    github = "linusning"
+
