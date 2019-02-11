@@ -1,4 +1,5 @@
 languageCode = "zh-cn"
+home = "https://leening.me"
 baseURL = "https://leening.me/"
 theme = "hyde-hyde"
 enableEmoji = true
@@ -23,6 +24,7 @@ enableEmoji = true
     description = "KEEP IT SIMPLE, STUPID!"
     copyright = "Li Ning, Built with <a href = \"https://gohugo.io\">Hugo</a> ❤️ <a href = \"https://github.com/htr3n/hyde-hyde\">hyde-hyde</a>."
     authorImage = "images/linus.jpeg"
+    siteTitle = "<a href = \"https://leening.me\">Li Ning</a>"
 
     [params.social]
   	    github = "linusning"
